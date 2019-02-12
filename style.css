@@ -1,0 +1,30 @@
+h1,h2 {
+  content: 'center';
+  font-family: 'Tangerine', sans-serif;
+  color: red;
+  text-align: center;
+  font-size: 30px;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1530870110042-98b2cb110834?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+  font-family: 'Raleway', sans-serif;
+  color: red;
+}
+
+#image {
+  width: 2000px;
+
+}
+
+#image img{
+  width:300px;
+  height:200px;
+  float: left;
+  margin: 30px;
+  position: relative;
+}
+
+h3{
+  positon:absolute;
+}
